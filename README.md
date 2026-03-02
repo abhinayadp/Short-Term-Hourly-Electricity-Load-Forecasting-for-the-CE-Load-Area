@@ -1,0 +1,1 @@
+This project addresses the problem of accurately forecasting short-term hourly electricity load using historical data and demonstrates the usefulness of statistical predictive models in supporting efficient and reliable utility operations.
